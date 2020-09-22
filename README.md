@@ -1,16 +1,69 @@
-### Hi there 👋
+ ## Get to know me 😊
 
-<!--
-**uonsokhuong/uonsokhuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 I'm a student of Kirirom Institute of Technology (KIT)
+- 🔭 I’m currently working on ...web development, [Dsicord clone](https://github.com/SOKHUONG/discord-clone)
+- 🌱 I’m currently learning ...Tailwindcss, Nuxtjs, Vuejs
+- 👯 I’m looking to collaborate on ...three.js
+- 🤔 I’m looking for help with ...three.js
+- 💬 Ask me about ...Anything 😊
+- 📫 How to reach me: ...Discord: USK#2168
+- 😄 Pronouns: ...He / Him
+- ⚡ Fun fact: ...Haha 😆
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SOKHUONG's github stats](https://github-readme-stats.vercel.app/api?username=SOKHUONG&theme=tokyonight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOKHUONG&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=SOKHUONG&layout=compact&theme=tokyonight)
+
+[![Codeware](https://www.codewars.com/users/USK/badges/large)](https://www.codewars.com/users/USK)
+
+## Languages and Tools
+
+![vscode][vscode]
+![python][python]
+![html5][html5]
+![css3][css3]
+![javascript][javascript]
+![tailwindcss][tailwindcss]
+![vue][vue]
+![nuxtjs][nuxtjs]
+![git][git]
+![github][github]
+![django][django]
+![nodejs][nodejs]
+![npm][npm]
+![postgresql][postgresql]
+
+ 
+ ___
+ 
+ 
+<a href="https://github.com/SOKHUONG/SOKHUONG">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=SOKHUONG&theme=radical&show_icons=true" />
+</a>
+
+<a href="https://github.com/SOKHUONG/VTour">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=VTour&theme=radical" />
+</a>
+
+<a href="https://github.com/SOKHUONG/discord-clone">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=discord-clone&theme=radical" />
+</a>
+
+
+[facebook]:     https://www.facebook.com/sokhuong.uon.50/
+[css3]:         https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-css3.svg
+[html5]:        https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-html5.svg
+[django]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-django.svg
+[git]:          https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-git.svg
+[github]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-github.svg
+[javascript]:   https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-javascript.svg
+[nodejs]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-nodejs.svg
+[npm]:          https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-npm.svg
+[postgresql]:   https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-postgresql.svg
+[python]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-python.svg
+[vscode]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-vscode.svg
+[vue]:          https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-vue-js.svg
+[nuxtjs]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/nuxt-square.svg
+[tailwindcss]:  https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/tailwindcss-icon.svg
